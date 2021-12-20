@@ -8,3 +8,7 @@ Oorlog
 Steden
   De namen van steden moeten wel serieus wezen, al kan er geen serieuze naam worden gekozen binnen 48 uur van het stichten van een stad, word er een naam voor de stad gekozen door 
   een lid van de community die geen burger van die stad is.
+  Een serieuze naam voldoet aan de volgende eisen:
+    1. De naam moet een verzonnen naam wezen, hij mag dus niet direct gecopieerd zijn vanuit de realiteit.
+    2. De naam klinkt middeleeuws, dus namen die bijvoorbeeld eindigen op topia vallen hier niet onder.
+    3. De naam moet uitspreekbaar kunnen zijn.
