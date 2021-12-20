@@ -1,2 +1,4 @@
 Hacken
   Niet hacken
+  hacken == perm ban
+
