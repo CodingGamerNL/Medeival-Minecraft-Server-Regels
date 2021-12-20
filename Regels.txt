@@ -3,8 +3,8 @@ Hacken
   hacken == perm ban
 
 Oorlog
-  Oorlog mag gevoerd worden als het formeel is aangemeld
-  
+  Oorlog mag gevoerd worden als het formeel is aangemeld bij de tegenstander.
+
 Steden
   De namen van steden moeten wel serieus wezen, al kan er geen serieuze naam worden gekozen binnen 48 uur van het stichten van een stad, word er een naam voor de stad gekozen door 
   een lid van de community die geen burger van die stad is.
