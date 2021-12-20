@@ -1,6 +1,10 @@
 Hacken
   Niet hacken
   hacken == perm ban
+  
+Grieven
+  Niet grieven (slopen),
+  tijdens oorlog gaat er wel es wat kapot, das bij de prijs inbegrepen.
 
 Steden
   De namen van steden moeten wel serieus wezen, al kan er geen serieuze naam worden gekozen binnen 48 uur van het stichten van een stad, word er een naam voor de stad gekozen door 
