@@ -2,9 +2,6 @@ Hacken
   Niet hacken
   hacken == perm ban
 
-Oorlog
-  Oorlog mag gevoerd worden als het formeel is aangemeld bij de tegenstander.
-
 Steden
   De namen van steden moeten wel serieus wezen, al kan er geen serieuze naam worden gekozen binnen 48 uur van het stichten van een stad, word er een naam voor de stad gekozen door 
   een lid van de community die geen burger van die stad is.
@@ -12,3 +9,17 @@ Steden
     1. De naam moet een verzonnen naam wezen, hij mag dus niet direct gecopieerd zijn vanuit de realiteit.
     2. De naam klinkt middeleeuws, dus namen die bijvoorbeeld eindigen op topia vallen hier niet onder.
     3. De naam moet uitspreekbaar kunnen zijn.
+
+Conflicten tussen steden
+  Wat zijn de middeleeuwen zonder een conflict hier en daar, we snappen dat deze ook zullen komen.
+  Maar om ervoor te zorgen dat dingen niet teveel uit de hand lopen stellen we er wel een paar regels over op.
+  
+  De Verenigde Steden
+    Alle steden zijn automatisch aangesloten bij de vernigde steden, hiervoor kiest iedere stad een voorzitter die hun stad vertegenwoordigd.
+  
+  Oorlog
+    Oorlog mag natuurlijk gevoerd worden mits er eem oorlogsverklaring word gegeven aan de andere partij.
+    Al word er oorlog gevoer zonder oorlogsverklaring, komt de aanvallende partij voor de Verenigde Steden.
+    
+  Allianties
+    Steden mogen natuurlijk ook allianties vormen met andere steden, deze mogen ook geheim blijven.
