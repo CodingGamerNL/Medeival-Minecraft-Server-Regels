@@ -2,3 +2,6 @@ Hacken
   Niet hacken
   hacken == perm ban
 
+Oorlog
+  Oorlog mag gevoerd worden als het formeel is aangemeld
+  
