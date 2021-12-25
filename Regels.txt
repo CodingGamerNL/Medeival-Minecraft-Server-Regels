@@ -25,7 +25,7 @@ Steden
 
 Conflicten tussen steden
   Wat zijn de middeleeuwen zonder een conflict hier en daar, we snappen dat deze ook zullen komen.
-  Maar om ervoor te zorgen dat dingen niet teveel uit de hand lopen stellen we er wel een paar regels over op.
+  Maar om ervoor te zorgen dat dingen niet teveel uit de hand lopen, stellen we er wel een paar regels over op.
   
   De Verenigde Steden
     Alle steden zijn automatisch aangesloten bij de vernigde steden, hiervoor kiest iedere stad een voorzitter die hun stad vertegenwoordigd.
