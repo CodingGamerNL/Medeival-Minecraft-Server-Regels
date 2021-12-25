@@ -8,6 +8,12 @@ Grieven
   Niet grieven (wek van andere slopen zonder toestemming),
   tijdens oorlog gaat er wel es wat kapot, das bij de prijs inbegrepen.
 
+Origins
+  Per stad mag er maar 2x dezelfde origin voorkomen.
+
+Overlijden
+  Al ga je dood door een andere speler, mag je voor 5 min niet respawnen
+
 Steden
   De namen van steden moeten wel serieus wezen, al kan er geen serieuze naam worden gekozen binnen 48 uur van het stichten van een stad, word er een naam voor de stad gekozen door 
   een lid van de community die geen burger van die stad is.
