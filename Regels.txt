@@ -34,6 +34,10 @@ Conflicten tussen steden
     Oorlog mag natuurlijk gevoerd worden mits er eem oorlogsverklaring word gegeven aan de andere partij.
     Al word er oorlog gevoer zonder oorlogsverklaring, komt de aanvallende partij voor de Verenigde Steden.
     
+    Tijdens oorlog worden er natuurlijk wapens gebruikt, de volgende zijn verboden:
+      1. Grote TNT kanonnen
+    Hierover beslist de Verenigde Steden.
+    
   Allianties
     Steden mogen natuurlijk ook allianties vormen met andere steden, deze mogen ook geheim blijven.
 
