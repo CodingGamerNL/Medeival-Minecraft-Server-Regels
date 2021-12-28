@@ -30,6 +30,8 @@ Conflicten tussen steden
   De Verenigde Steden
     Alle steden zijn automatisch aangesloten bij de vernigde steden, hiervoor kiest iedere stad een voorzitter die hun stad vertegenwoordigd.
   
+  ONTHOUD HET DRAAIT NIET ALLEMAAL OM OORLOG
+  
   Oorlog
     Oorlog mag natuurlijk gevoerd worden mits er eem oorlogsverklaring word gegeven aan de andere partij.
     Al word er oorlog gevoer zonder oorlogsverklaring, komt de aanvallende partij voor de Verenigde Steden.
